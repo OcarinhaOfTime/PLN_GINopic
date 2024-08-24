@@ -9,11 +9,12 @@ import random, torch, json
 
 data = Dataset()
 data_dir = '../preprocessed_datasets'
-data.load_custom_dataset_from_folder(data_dir + "/BRNews")
+data.load_custom_dataset_from_folder(data_dir + "/hotel_reviews")
 
 meta = data.get_metadata()
-print(meta)
 print(meta["last-training-doc"])
-#print("last-training-doc" in meta)
 pcorpus = data.get_partitioned_corpus()
-print(pcorpus)
+
+assert(pcorpus != None)
+
+print('test was succesful')
