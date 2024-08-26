@@ -1,12 +1,12 @@
 {
-    "total_documents": 5000,
-    "vocabulary_length": 56494,
+    "total_documents": 7200,
+    "vocabulary_length": 49921,
     "preprocessing-info": [],
     "labels": [
         "fake",
         "true"
     ],
     "total_labels": 2,
-    "last-training-doc": 2999,
-    "last-validation-doc": 3999
+    "last-training-doc": 4319,
+    "last-validation-doc": 5759
 }

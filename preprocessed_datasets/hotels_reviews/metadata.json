@@ -1,6 +1,6 @@
 {
-    "total_documents": 34950,
-    "vocabulary_length": 30297,
+    "total_documents": 34826,
+    "vocabulary_length": 16909,
     "preprocessing-info": [],
     "labels": [
         0,
@@ -16,6 +16,6 @@
         10
     ],
     "total_labels": 11,
-    "last-training-doc": 20966,
-    "last-validation-doc": 27957
+    "last-training-doc": 20895,
+    "last-validation-doc": 27862
 }
