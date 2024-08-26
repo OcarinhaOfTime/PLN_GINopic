@@ -1,7 +1,3 @@
-'d
-'ll
-'s
-'ve
 a
 aba
 aback
@@ -323,6 +319,7 @@ ailment
 aim
 aiming
 aims
+ain't
 aiolis
 air
 aircraft
@@ -374,6 +371,7 @@ alight
 align
 alike
 aliment
+aliment's
 alimentation
 alive
 alkane
@@ -711,6 +709,7 @@ arduous
 are
 area
 areas
+aren't
 arena
 arenas
 ares
@@ -2156,6 +2155,7 @@ cannery
 cannoli
 cannon
 cannonball
+cannot
 canoe
 canoeing
 canoes
@@ -3445,6 +3445,7 @@ coughed
 coughing
 coughs
 could
+couldn't
 couloir
 council
 counselors
@@ -3835,6 +3836,7 @@ darker
 darkness
 darling
 darn
+darn's
 dash
 data
 database
@@ -4206,6 +4208,7 @@ dice
 dicey
 dickie
 did
+didn't
 didos
 die
 died
@@ -4511,6 +4514,7 @@ dodging
 dodgy
 dodos
 does
+doesn't
 dog
 doges
 doggie
@@ -4537,6 +4541,7 @@ dominated
 dominion
 domino
 dominos
+don't
 dona
 donas
 donate
@@ -4862,7 +4867,7 @@ economically
 economy
 ecstatic
 ecu
-ed
+ed's
 eddies
 edemas
 edge
@@ -6487,11 +6492,11 @@ golfer
 golfers
 golfing
 golly
-gon
 gondola
 gondolas
 gondolier
 gone
+gonna
 goo
 good
 goodbye
@@ -6517,6 +6522,7 @@ gorilla
 gosh
 gossiping
 got
+gotta
 gotten
 gouged
 gouges
@@ -6767,6 +6773,7 @@ hackman
 had
 haddock
 hade
+hadn't
 hag
 haggard
 haggle
@@ -6888,6 +6895,7 @@ hart
 harvest
 has
 hash
+hasn't
 hassle
 hassled
 hassles
@@ -6913,6 +6921,7 @@ haunts
 hauteur
 have
 haven
+haven't
 having
 hawthorn
 hay
@@ -7875,6 +7884,7 @@ is
 island
 islands
 isle
+isn't
 isolated
 isolation
 issue
@@ -7882,6 +7892,7 @@ issued
 issues
 issuing
 it
+it's
 italic
 italy
 itch
@@ -8415,7 +8426,7 @@ lei
 leis
 leisure
 leisurely
-lem
+lemme
 lemon
 lemonade
 lemons
@@ -8871,6 +8882,7 @@ mammies
 mammoth
 mammy
 man
+man's
 mana
 manage
 manageable
@@ -9376,6 +9388,7 @@ modem
 moderate
 moderately
 modern
+modern's
 moderne
 modernization
 modernize
@@ -9414,6 +9427,7 @@ monarch
 monde
 monetary
 money
+money's
 monies
 monitor
 monitored
@@ -9454,7 +9468,7 @@ morale
 morceau
 mordent
 more
-morel
+morel's
 moreover
 mores
 morgen
@@ -9524,6 +9538,7 @@ mozzarella
 ms
 mu
 much
+much's
 muck
 mucked
 mud
@@ -9599,8 +9614,6 @@ mys
 mysterious
 mystery
 n
-n't
-na
 nab
 nabbed
 nacho
@@ -13205,6 +13218,7 @@ shaved
 shaver
 shaving
 she
+she'd
 shear
 shed
 shedding
@@ -13298,6 +13312,7 @@ shots
 should
 shoulder
 shoulders
+shouldn't
 shout
 shouted
 shouting
@@ -13750,6 +13765,7 @@ softest
 softie
 softly
 softness
+softness's
 software
 soggy
 soil
@@ -16371,6 +16387,7 @@ wanderer
 wandering
 wanders
 wane
+wanna
 wanner
 want
 wanted
@@ -16470,6 +16487,7 @@ ways
 wayside
 wayward
 we
+we'll
 weak
 weaker
 wealth
@@ -16536,6 +16554,7 @@ wend
 wending
 went
 were
+weren't
 wert
 west
 wester
@@ -16780,6 +16799,8 @@ worthless
 worthwhile
 worthy
 would
+would've
+wouldn't
 wound
 wounded
 wow
@@ -16868,6 +16889,7 @@ yogurts
 yore
 york
 you
+you'll
 young
 younger
 youngest
