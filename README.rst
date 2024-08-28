@@ -1,3 +1,9 @@
+An appliation using GINopic
+--------
+This repository is a fork from the original GINopic[https://github.com/AdhyaSuman/GINopic],
+aiming to be an extenttion of that work, introducing the usagge of 2 new custom datasets that contains words other than English.
+The main contributions can be found within the Notebooks subfolder, mainl noteboos 5_A and 5_B.
+
 
 .. image:: https://github.com/AdhyaSuman/GINopic/blob/master/Miscellaneous/GINopic_logo.png?raw=true
   :width: 200
